@@ -1,0 +1,74 @@
+#carouselExampleIndicators, #carouselExampleIndicators1, #carouselExampleIndicators2, #carouselExampleIndicators3{
+    width: 50%;
+    padding: 20px;
+    float: left;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .img-magnifier-container {
+    position: relative;
+  }
+
+  .img-magnifier-glass {
+    position: absolute;
+    border: 3px solid #000;
+    border-radius: 50%;
+    cursor: none;
+    /*Set the size of the magnifier glass:*/
+    width: 100px;
+    height: 100px;
+  }
+
+  h3{
+      text-align: center;
+  }
+
+  .review{
+      border: 2px solid black;
+      height: 120px;
+      width: 710px;
+      margin: auto;
+      margin-top: 10px;
+      padding: 10px;
+      margin-bottom: 20px;
+      background-color: bisque;
+  }
+
+  #carouselExampleIndicators
+  {
+    background-color: #000;
+  }
+
+  .reviews{
+      margin-top: 700px;
+  }
+
+  .review p {
+      font-size: 12px;
+  }
+
+  footer {
+        text-align: center;
+        padding: 3px;
+        color: white;
+        background-color: white;
+    }
+
+  .information{
+    margin-left: 798px;
+  }
+
+  #bag{
+    width: 695px;
+    height: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+  }
+
+  .final{
+    margin-top: 30px;
+  }

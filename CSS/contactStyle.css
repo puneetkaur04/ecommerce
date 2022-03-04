@@ -1,0 +1,58 @@
+.information
+    {
+        margin: 50px;   
+        border-radius: 5px;
+        padding: 20px;
+        margin: 60px;
+        margin-top: -10px;
+        border: 3px solid black;
+    }
+    
+    .detail
+    {
+     margin: 50px;
+     text-align: center;
+    }
+
+ 
+    input, select
+    {
+      width: 100%;
+      border: 0.5px solid black;
+    }
+
+    /* all input boxes are the same size -  
+    includes the padding and border in an element's total width and height 
+    */
+    *{
+      box-sizing: border-box;
+    }
+
+    #submit, select, input
+    {
+      padding: 10px 15px;
+      margin: 8px 0px;
+      border-radius: 5px;
+    }
+
+    #submit 
+    {
+      width: 100%;
+      background-color: black;
+      color: white;
+      cursor: pointer;
+      border: 0.5px solid black;
+    }
+
+    #submit:hover
+    {
+      background-color: lightgreen;
+      color: black;
+    }
+
+    footer {
+      text-align: center;
+      padding: 3px;
+      color: white;
+      background-color: black;
+    }

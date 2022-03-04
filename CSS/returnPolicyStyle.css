@@ -1,0 +1,46 @@
+.details{
+    margin: 80px;
+}
+
+#question{
+  font-weight: bold;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 70px;
+}
+
+#statement{
+  font-size: 18px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    color: white;
+    background-color: black;
+}
+
+
+footer {
+    text-align: center;
+    padding: 3px;
+    color: white;
+    background-color: black;
+}
+
+#answer::first-letter{
+  font-weight: bold;
+}
+
+#reasons{
+  margin-left: 70px;
+}
